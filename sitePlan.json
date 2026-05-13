@@ -1,0 +1,49 @@
+{
+  "businessName": "Lady D Stores",
+  "industry": "Manufacturing",
+  "tone": "professional and approachable",
+  "tagline": "Quality Manufacturing Solutions from the Heart of Yola",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Lady D Stores - Your Trusted Manufacturing Partner in Yola North. We deliver excellence in manufacturing with integrity, quality, and reliability. Serving communities across Adamawa State and beyond.",
+      "imagePrompt": "Modern Nigerian manufacturing facility in Yola, bright natural lighting, clean industrial workspace with organized production lines, professional Nigerian workers in safety gear, warm colors representing northern Nigeria, high quality photorealistic style",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Lady D Stores is a leading manufacturing enterprise based in Yola North, Adamawa State. Strategically located at 23 Brigade Mammy Market, Army Barracks, Jimeta, we have built our reputation on delivering quality manufactured products that meet the needs of our diverse clientele. Our commitment to excellence, attention to detail, and understanding of the local market makes us the first choice for businesses and individuals seeking reliable manufacturing solutions. We combine modern production techniques with traditional Nigerian values of hard work and integrity.",
+      "imagePrompt": "Interior of a well-organized Nigerian manufacturing workspace in Yola, showing quality control processes, diverse team of Nigerian professionals collaborating, natural light from large windows, professional equipment and organized storage, warm and inviting atmosphere",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At Lady D Stores, we offer comprehensive manufacturing solutions tailored to meet your specific needs. Our services include custom manufacturing, product development, quality assurance, bulk production, and timely delivery across Adamawa State and neighboring regions. We work closely with our clients from concept to completion, ensuring every product meets the highest standards of quality and durability. Whether you need small batch production or large-scale manufacturing, we have the capacity and expertise to deliver exceptional results.",
+      "imagePrompt": "Collage showing various manufacturing processes in a Nigerian facility, close-up shots of skilled hands working on products, quality control inspection, finished products on display, packaging area, professional Nigerian workers demonstrating expertise, bright and professional setting",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Lady D Stores",
+      "copy": "Quality Assurance: Every product undergoes rigorous quality checks to ensure it meets our exacting standards. Local Expertise: Deep understanding of the Nigerian market and customer needs in Yola and beyond. Reliable Delivery: We pride ourselves on meeting deadlines and delivering on our promises. Competitive Pricing: Fair, transparent pricing that offers excellent value for money. Customer Focus: Your satisfaction is our priority, and we work tirelessly to exceed your expectations. Experienced Team: Our skilled professionals bring years of manufacturing experience to every project.",
+      "imagePrompt": "Professional Nigerian business team at Lady D Stores, diverse group of confident workers and management, modern office meeting space in Yola setting, certificates and quality awards on wall, handshake between satisfied client and business owner, trustworthy and professional atmosphere",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to partner with Lady D Stores for your manufacturing needs? We're here to answer your questions and discuss how we can help bring your projects to life. Visit us at our facility in Jimeta, Yola, or reach out via phone or WhatsApp. Our team is committed to providing prompt, professional service and looks forward to working with you.",
+      "imagePrompt": "Welcoming storefront of Lady D Stores at 23 Brigade Mammy Market in Yola, clear signage, clean and professional exterior, Nigerian customers entering the facility, Yola urban landscape in background, friendly and accessible business environment, daylight photography",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "08062449920",
+    "email": "info@ladydstores.com",
+    "address": "23 Brigade Mammy Market, Army Barracks, Jimeta, Yola North, Adamawa State, Nigeria",
+    "whatsapp": "https://wa.me/2348062449920"
+  }
+}
